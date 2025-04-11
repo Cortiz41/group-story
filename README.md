@@ -1,2 +1,3 @@
 # group-story
-SE 350 Lab 3: Group Story
+o simulate change that is made by
+your teammate 
